@@ -1,3 +1,17 @@
 body{
-    background: whitesmoke
+    background: whitesmoke;
+    
+}
+
+h1, h2, h3{
+    font-family: serif;
+    font-variant: small-caps;
+}
+
+.details{
+    font-family: serif;
+}
+
+.emphasize{
+    font-style: italic;
 }
